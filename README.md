@@ -28,8 +28,8 @@
 <div>
   <h2>📊 Estatísticas do GitHub</h2>
   <a href="https://github.com/Ras1563">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ras1563&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ras1563&show_icons=true&theme=dracula">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santostzk&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Santostzk&show_icons=true&theme=dracula">
 </div>
 
 <br>
