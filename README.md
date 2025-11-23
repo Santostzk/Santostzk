@@ -1,13 +1,13 @@
-<div align=center><h1>⭐ Opa! Eu sou Rafael Santos ⭐</h1>
+<div><h1 align=center>⭐ Opa! Eu sou Rafael Santos ⭐</h1>
 
-<h4>🌱 Atualmente estudando Ciência da Computação </h4>
-<h4>🖥 Aprendendo programação full-stack</h4>
-<h4>➡ Focando em crescer em minha carreira como programador</h4>
-<h4>🌎 Vivendo no Brasil</h4>
+<h3>🌱 Atualmente estudando Ciência da Computação </h4>
+<h3>🖥 Aprendendo programação full-stack</h4>
+<h3>➡ Focando em crescer em minha carreira como programador</h4>
+<h3>🌎 Vivendo no Brasil</h4>
 
 <br> 
 
-<div>
+<div align=center>
     <img width="300px" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 </div>
 
