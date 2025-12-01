@@ -26,15 +26,6 @@
 <br>
 
 <div>
-  <h2>📊 Estatísticas do GitHub</h2>
-  <a href="https://github.com/Santostzk">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santostzk&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Santostzk&show_icons=true&theme=dracula">
-</div>
-
-<br>
-
-<div>
   <h2>📌Contato</h2>
   <a href="https://www.instagram.com/santos.tzk/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-santos-b864532b0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
